@@ -10,6 +10,6 @@ Teensyduino version 1.35 from https://www.pjrc.com/teensy/td_download.html
 
 ## Libraries
 
-The crypto in this repository comes from Ryhs Weatherly's arduinolibs - https://github.com/rweather/arduinolibs
+The crypto in this repository comes from Ryhs Weatherley's arduinolibs - https://github.com/rweather/arduinolibs
 
 
